@@ -1,0 +1,9 @@
+Các thành phần chính của 1 trang website:
+1. Header (Đầu trang)
+2. Navigation (Điều hướng)
+3. Breadcrumb (Địa chỉ)
+4. Sidebar (Phần trái phải màn hình)
+5. Slider (Trình chiếu)
+6. Baner (Quảng cáo)
+6. Content (Nội dung)
+7. Footer (Chân trang)

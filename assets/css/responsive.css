@@ -3,7 +3,28 @@
  @media(min-width: 1024px) {}
  /*Tablet*/
  
- @media(max-width: 1023px) and (min-width:740px) {}
+ @media(max-width: 1023px) and (min-width:740px) {
+     .contact-form .form-control {
+         padding: 10px;
+     }
+     #footer .social-list {
+         font-size: 36px;
+     }
+     .contact-info {
+         font-size: 18px;
+         line-height: 1.8;
+     }
+ }
+ /*Tablet and Mobile*/
+ 
+ @media(max-width: 1023px) {
+     .btn {
+         padding: 15px 16px;
+     }
+     #footer .copyright a {
+         padding: 12px 12px 12px 0;
+     }
+ }
  /*Mobile*/
  
  @media(max-width:740px) {
@@ -49,7 +70,7 @@
          width: 100%;
      }
      .btn {
-         margin: 0 120px;
+         width: 100%;
      }
      .form-control {
          margin-top: 16px;
@@ -62,5 +83,8 @@
      }
      .mt-8 {
          margin-top: 0px !important;
+     }
+     #footer .social-list {
+         font-size: 24px;
      }
  }
