@@ -8,7 +8,10 @@
          padding: 10px;
      }
      #footer .social-list {
-         font-size: 36px;
+         font-size: 28px;
+     }
+     #footer .social-list a {
+         padding: 0 8px 0 8px;
      }
      .contact-info {
          font-size: 18px;
@@ -86,5 +89,8 @@
      }
      #footer .social-list {
          font-size: 24px;
+     }
+     #footer .social-list a {
+         padding: 0 4px 0 4px;
      }
  }

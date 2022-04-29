@@ -210,7 +210,7 @@ html {
 }
 
 #header .mobile-menu-btn:hover {
-    background-color: #ccc;
+    background-color: #d53428;
 }
 
 #header .mobile-menu-btn:hover .menu-icon {
@@ -564,7 +564,7 @@ html {
 }
 
 #footer .social-list {
-    font-size: 20px;
+    font-size: 24px;
 }
 
 #footer .social-list a {
